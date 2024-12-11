@@ -15,6 +15,8 @@ Els projectes presentats en aquest repositori serveixen com a demostració pràc
 
 # Instruccions
 
+Per instal·lar les dependencies, fes servir la següent instrucció:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -32,10 +34,14 @@ Aquest repositori està obert a contribucions dels alumnes participants. Si vole
 * [02_MarioBros](02_MarioBros): [@ainabrenes](https://github.com/ainabrenes)
 * [03_RiskyRescue](03_RiskyRescue): [@casamor125](https://github.com/casamor125)
 * [04_SpaceInvaders](04_SpaceInvaders): [@danielcorralesleon3](https://github.com/danielcorralesleon3)
-* [06_RescateEspacial](06_RescateEspacial): [@JuanAntonioFernandezMayol](https://github.com/JuanAntonioFernandezMayol)
 * [05_FlappyBird](05_FlappyBird): [@dd0minguez](https://github.com/dd0minguez)
+* [06_RescateEspacial](06_RescateEspacial): [@JuanAntonioFernandezMayol](https://github.com/JuanAntonioFernandezMayol)
 * [07_DragonBall](07_DragonBall): [@pedrogarciaaag](https://github.com/pedrogarciaaag)
 * [08_PlanetDefenders](08_PlanetDefenders): [@AdrianHeCa](https://github.com/AdrianHeCa)
+* [11_SpaceShooter](11_SpaceShooter): [@tonin-corbas](https://github.com/tonin-corbas)
 * [12_CatInvaders](12_CatInvaders): [@Eric-Lachcik](https://github.com/Eric-Lachcik)
 * [13_Asteroids](13_Asteroids): [@xlupicomas](https://github.com/xlupicomas)
+* [14_AstroRain](14_AstroRain): [@MDCpedro](https://github.com/MDCpedro)
 * [15_SkeletonAlienArmadaVsMexicanCat](15_SkeletonAlienArmadaVsMexicanCat): [@JoanMenendezCalafell](https://github.com/JoanMenendezCalafell)
+* [16_PlanetDefender](16_PlanetDefender): [@JuanSebastianPerniola](https://github.com/JuanSebastianPerniola)
+* [17_RetroPlane](https://github.com/joseluisvazzquez)
